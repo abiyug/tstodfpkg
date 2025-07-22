@@ -1,0 +1,134 @@
+
+R version 3.5.2 (2018-12-20) -- "Eggshell Igloo"
+Copyright (C) 2018 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> pkgname <- "tstodfpkg"
+> source(file.path(R.home("share"), "R", "examples-header.R"))
+> options(warn = 1)
+> library('tstodfpkg')
+> 
+> base::assign(".oldSearch", base::search(), pos = 'CheckExEnv')
+> base::assign(".old_wd", base::getwd(), pos = 'CheckExEnv')
+> cleanEx()
+> nameEx("synth_gap")
+> ### * synth_gap
+> 
+> flush(stderr()); flush(stdout())
+> 
+> ### Name: synth_gap
+> ### Title: Synthetic Gap Sales Data
+> ### Aliases: synth_gap
+> 
+> ### ** Examples
+> 
+> data(synth_gap)
+> head(ts_to_df(synth_gap, name = "Sales"))
+  Year Period    Sales
+1 2000     Q1 3171.976
+2 2000     Q2 3018.491
+3 2000     Q3 2937.935
+4 2000     Q4 3093.525
+5 2001     Q1 3326.464
+6 2001     Q2 3235.753
+> 
+> 
+> 
+> cleanEx()
+> nameEx("ts_to_df")
+> ### * ts_to_df
+> 
+> flush(stderr()); flush(stdout())
+> 
+> ### Name: ts_to_df
+> ### Title: Convert Time Series to Data Frame
+> ### Aliases: ts_to_df
+> 
+> ### ** Examples
+> 
+> data(synth_gap)
+> ts_to_df(synth_gap, name = "Sales")
+   Year Period    Sales
+1  2000     Q1 3171.976
+2  2000     Q2 3018.491
+3  2000     Q3 2937.935
+4  2000     Q4 3093.525
+5  2001     Q1 3326.464
+6  2001     Q2 3235.753
+7  2001     Q3 3003.046
+8  2001     Q4 3146.747
+9  2002     Q1 3405.657
+10 2002     Q2 3247.717
+11 2002     Q3 3161.204
+12 2002     Q4 3347.991
+13 2003     Q1 3580.039
+14 2003     Q2 3395.534
+15 2003     Q3 3192.208
+16 2003     Q4 3539.346
+17 2004     Q1 3704.893
+18 2004     Q2 3411.669
+19 2004     Q3 3375.068
+20 2004     Q4 3546.360
+21 2005     Q1 3746.609
+22 2005     Q2 3619.101
+23 2005     Q3 3408.700
+24 2005     Q4 3653.555
+25 2006     Q1 3888.748
+26 2006     Q2 3665.665
+27 2006     Q3 3621.889
+28 2006     Q4 3817.669
+29 2007     Q1 3983.093
+30 2007     Q2 3932.691
+31 2007     Q3 3721.323
+32 2007     Q4 3915.246
+33 2008     Q1 4204.756
+34 2008     Q2 4033.907
+35 2008     Q3 3861.079
+36 2008     Q4 4084.432
+37 2009     Q1 4307.696
+38 2009     Q2 4106.904
+39 2009     Q3 3924.702
+40 2009     Q4 4150.976
+41 2010     Q1 4365.265
+42 2010     Q2 4219.604
+43 2010     Q3 3996.730
+44 2010     Q4 4398.448
+45 2011     Q1 4580.398
+46 2011     Q2 4293.845
+47 2011     Q3 4159.856
+48 2011     Q4 4386.667
+49 2012     Q1 4678.998
+50 2012     Q2 4465.832
+51 2012     Q3 4312.666
+> 
+> 
+> 
+> ### * <FOOTER>
+> ###
+> cleanEx()
+> options(digits = 7L)
+> base::cat("Time elapsed: ", proc.time() - base::get("ptime", pos = 'CheckExEnv'),"\n")
+Time elapsed:  0.112 0.008 0.122 0 0 
+> grDevices::dev.off()
+null device 
+          1 
+> ###
+> ### Local variables: ***
+> ### mode: outline-minor ***
+> ### outline-regexp: "\\(> \\)?### [*]+" ***
+> ### End: ***
+> quit('no')

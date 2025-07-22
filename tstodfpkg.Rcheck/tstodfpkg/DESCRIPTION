@@ -1,0 +1,14 @@
+Package: tstodfpkg
+Title: Convert Time Series to Data Frame
+Version: 0.1.0
+Authors@R: person("Abiyu Giday", email = "abiyu.giday@datarecode.com", role = c("aut", "cre"))
+Description: A simple package to convert R time series objects to data frames with synthetic example data.
+License: MIT
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+NeedsCompilation: no
+Packaged: 2025-07-22 18:56:57 UTC; antex
+Author: Abiyu Giday [aut, cre]
+Maintainer: Abiyu Giday <abiyu.giday@datarecode.com>
+Built: R 3.5.2; ; 2025-07-22 18:57:37 UTC; unix

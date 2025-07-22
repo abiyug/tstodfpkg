@@ -1,0 +1,394 @@
+Hmm ... looks like a package
+
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (./Rd2.tex
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/bk10.clo))
+(/usr/share/R/share/texmf/tex/latex/Rd.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/ifthen.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/tools/longtable.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/tools/bm.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/alltt.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/tools/verbatim.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/url/url.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/textcomp.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/inconsolata/zi4.sty
+`inconsolata-zi4' v1.12, 2019/05/17 Text macros for Inconsolata (msharpe)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/xkeyval/keyval.tex)))))
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/graphics/color.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def))
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty))
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+
+Package hyperref Warning: Option `hyperindex' has already been used,
+(hyperref)                setting the option has no effect on input line 366.
+
+
+Package hyperref Warning: Option `pagebackref' has already been used,
+(hyperref)                setting the option has no effect on input line 366.
+
+) (/home/antex/.TinyTeX/texmf-dist/tex/latex/base/makeidx.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/inputenc.sty)
+Writing index file Rd2.idx
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+No file Rd2.aux.
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty)
+) (/home/antex/.TinyTeX/texmf-dist/tex/latex/inconsolata/ot1zi4.fd)
+
+LaTeX Font Warning: Font shape `OML/zi4/m/n' undefined
+(Font)              using `OML/cmm/m/it' instead
+(Font)              for symbol `textless' on input line 26.
+
+[1{/home/antex/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+No file Rd2.ind.
+[2] (/tmp/Rtmpu0Fy35/Rd2pdf33c1cba04bb/Rd2.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+Package rerunfilecheck Warning: File `Rd2.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ ){/home/antex/.TinyTeX/texmf-dist/fonts/enc/dvips/inconsolata/i4-ot1-0.enc}</h
+ome/antex/.TinyTeX/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.p
+fb></home/antex/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
+/home/antex/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></hom
+e/antex/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/an
+tex/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/antex/.
+TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/antex/.TinyT
+eX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></home/antex/.TinyTeX/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></home/antex/.TinyTeX/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Rd2.pdf (2 pages, 106075 bytes).
+Transcript written on Rd2.log.
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (./Rd2.tex
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/bk10.clo))
+(/usr/share/R/share/texmf/tex/latex/Rd.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/ifthen.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/tools/longtable.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/tools/bm.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/alltt.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/tools/verbatim.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/url/url.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/textcomp.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/inconsolata/zi4.sty
+`inconsolata-zi4' v1.12, 2019/05/17 Text macros for Inconsolata (msharpe)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/xkeyval/keyval.tex)))))
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/graphics/color.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def))
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty))
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+
+Package hyperref Warning: Option `hyperindex' has already been used,
+(hyperref)                setting the option has no effect on input line 366.
+
+
+Package hyperref Warning: Option `pagebackref' has already been used,
+(hyperref)                setting the option has no effect on input line 366.
+
+) (/home/antex/.TinyTeX/texmf-dist/tex/latex/base/makeidx.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/inputenc.sty)
+Writing index file Rd2.idx
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(/tmp/Rtmpu0Fy35/Rd2pdf33c1cba04bb/Rd2.aux)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty)
+) (/tmp/Rtmpu0Fy35/Rd2pdf33c1cba04bb/Rd2.out)
+(/tmp/Rtmpu0Fy35/Rd2pdf33c1cba04bb/Rd2.out)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/inconsolata/ot1zi4.fd)
+
+LaTeX Font Warning: Font shape `OML/zi4/m/n' undefined
+(Font)              using `OML/cmm/m/it' instead
+(Font)              for symbol `textless' on input line 26.
+
+(/tmp/Rtmpu0Fy35/Rd2pdf33c1cba04bb/Rd2.toc) [1{/home/antex/.TinyTeX/texmf-var/f
+onts/map/pdftex/updmap/pdftex.map}]
+No file Rd2.ind.
+[2] (/tmp/Rtmpu0Fy35/Rd2pdf33c1cba04bb/Rd2.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ){/home/antex/.TinyTeX/texmf-dist/fonts/enc/dvips/inconsolata/i4-ot1-0.enc}</h
+ome/antex/.TinyTeX/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.p
+fb></home/antex/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
+/home/antex/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></hom
+e/antex/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/an
+tex/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/antex/.
+TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/antex/.TinyT
+eX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></home/antex/.TinyTeX/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></home/antex/.TinyTeX/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Rd2.pdf (2 pages, 106471 bytes).
+Transcript written on Rd2.log.
+This is makeindex, version 2.15 [TeX Live 2021] (kpathsea + Thai support).
+Scanning input file Rd2.idx....done (2 entries accepted, 0 rejected).
+Sorting entries....done (2 comparisons).
+Generating output file Rd2.ind....done (9 lines written, 0 warnings).
+Output written in Rd2.ind.
+Transcript written in Rd2.ilg.
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (./Rd2.tex
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/bk10.clo))
+(/usr/share/R/share/texmf/tex/latex/Rd.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/ifthen.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/tools/longtable.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/tools/bm.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/alltt.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/tools/verbatim.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/url/url.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/textcomp.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/inconsolata/zi4.sty
+`inconsolata-zi4' v1.12, 2019/05/17 Text macros for Inconsolata (msharpe)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/xkeyval/keyval.tex)))))
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/graphics/color.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def))
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty))
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+
+Package hyperref Warning: Option `hyperindex' has already been used,
+(hyperref)                setting the option has no effect on input line 366.
+
+
+Package hyperref Warning: Option `pagebackref' has already been used,
+(hyperref)                setting the option has no effect on input line 366.
+
+) (/home/antex/.TinyTeX/texmf-dist/tex/latex/base/makeidx.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/inputenc.sty)
+Writing index file Rd2.idx
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(/tmp/Rtmpu0Fy35/Rd2pdf33c1cba04bb/Rd2.aux)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty)
+) (/tmp/Rtmpu0Fy35/Rd2pdf33c1cba04bb/Rd2.out)
+(/tmp/Rtmpu0Fy35/Rd2pdf33c1cba04bb/Rd2.out)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/inconsolata/ot1zi4.fd)
+
+LaTeX Font Warning: Font shape `OML/zi4/m/n' undefined
+(Font)              using `OML/cmm/m/it' instead
+(Font)              for symbol `textless' on input line 26.
+
+(/tmp/Rtmpu0Fy35/Rd2pdf33c1cba04bb/Rd2.toc) [1{/home/antex/.TinyTeX/texmf-var/f
+onts/map/pdftex/updmap/pdftex.map}] (/tmp/Rtmpu0Fy35/Rd2pdf33c1cba04bb/Rd2.ind
+[2] [3]) (/tmp/Rtmpu0Fy35/Rd2pdf33c1cba04bb/Rd2.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+Package rerunfilecheck Warning: File `Rd2.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ ){/home/antex/.TinyTeX/texmf-dist/fonts/enc/dvips/inconsolata/i4-ot1-0.enc}</h
+ome/antex/.TinyTeX/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.p
+fb></home/antex/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
+/home/antex/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></hom
+e/antex/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/an
+tex/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/antex/.
+TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/antex/.TinyT
+eX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></home/antex/.TinyTeX/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></home/antex/.TinyTeX/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Rd2.pdf (3 pages, 107466 bytes).
+Transcript written on Rd2.log.
+This is makeindex, version 2.15 [TeX Live 2021] (kpathsea + Thai support).
+Scanning input file Rd2.idx....done (2 entries accepted, 0 rejected).
+Sorting entries....done (2 comparisons).
+Generating output file Rd2.ind....done (9 lines written, 0 warnings).
+Output written in Rd2.ind.
+Transcript written in Rd2.ilg.
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (./Rd2.tex
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/bk10.clo))
+(/usr/share/R/share/texmf/tex/latex/Rd.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/ifthen.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/tools/longtable.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/tools/bm.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/alltt.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/tools/verbatim.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/url/url.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/textcomp.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/inconsolata/zi4.sty
+`inconsolata-zi4' v1.12, 2019/05/17 Text macros for Inconsolata (msharpe)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/xkeyval/keyval.tex)))))
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/graphics/color.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def))
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty))
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+
+
+Package hyperref Warning: Option `hyperindex' has already been used,
+(hyperref)                setting the option has no effect on input line 366.
+
+
+Package hyperref Warning: Option `pagebackref' has already been used,
+(hyperref)                setting the option has no effect on input line 366.
+
+) (/home/antex/.TinyTeX/texmf-dist/tex/latex/base/makeidx.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/base/inputenc.sty)
+Writing index file Rd2.idx
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(/tmp/Rtmpu0Fy35/Rd2pdf33c1cba04bb/Rd2.aux)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty)
+(/home/antex/.TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty)
+) (/tmp/Rtmpu0Fy35/Rd2pdf33c1cba04bb/Rd2.out)
+(/tmp/Rtmpu0Fy35/Rd2pdf33c1cba04bb/Rd2.out)
+(/home/antex/.TinyTeX/texmf-dist/tex/latex/inconsolata/ot1zi4.fd)
+
+LaTeX Font Warning: Font shape `OML/zi4/m/n' undefined
+(Font)              using `OML/cmm/m/it' instead
+(Font)              for symbol `textless' on input line 26.
+
+(/tmp/Rtmpu0Fy35/Rd2pdf33c1cba04bb/Rd2.toc) [1{/home/antex/.TinyTeX/texmf-var/f
+onts/map/pdftex/updmap/pdftex.map}] (/tmp/Rtmpu0Fy35/Rd2pdf33c1cba04bb/Rd2.ind
+[2] [3]) (/tmp/Rtmpu0Fy35/Rd2pdf33c1cba04bb/Rd2.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ){/home/antex/.TinyTeX/texmf-dist/fonts/enc/dvips/inconsolata/i4-ot1-0.enc}</h
+ome/antex/.TinyTeX/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.p
+fb></home/antex/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
+/home/antex/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></hom
+e/antex/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/an
+tex/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/antex/.
+TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/antex/.TinyT
+eX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></home/antex/.TinyTeX/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></home/antex/.TinyTeX/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Rd2.pdf (3 pages, 108005 bytes).
+Transcript written on Rd2.log.
+Saving output to ‘tstodfpkg-manual.pdf’ ...
+Done
+You may want to clean up by 'rm -Rf /tmp/Rtmpu0Fy35/Rd2pdf33c1cba04bb'
