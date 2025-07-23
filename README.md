@@ -1,7 +1,7 @@
-## Functionality of `ts_to_df`
+## tstodfpkg 
 <img src="image/tsTOdfHex.png" alt="My Hex Sticker" style="width: 25%; float: right; margin-left: 15px;">
 
-The `ts_to_df` function is a flexible tool for converting R’s `ts` objects into a tabular `data.frame` format, making it easier to analyze or visualize time series data with standard R tools. Key features include:
+`tstodfpkg` is an R package that contains `ts_to_df` function and a single `ts` dataset `synth_gap`. `ts_to_ds` is a flexible function that converts R’s `ts` objects into a tabular `data.frame` format, making it easier to analyze or visualize time series data with standard R tools. Key features include:
 
 - **Input Flexibility**: Accepts any `ts` object, whether univariate or multivariate, with automatic detection of frequency (e.g., 4 for quarterly, 12 for monthly).
 - **Output Structure**: Returns a `data.frame` with:
