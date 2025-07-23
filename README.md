@@ -1,45 +1,5 @@
----
-title: "tsto data.Frame R Package"
-author: "Abiyu Giday"
-date: "7/23/2025"
-output: 
-  html_document:
-    keep_md: true
----
-
-
-<style>
-:not(pre) > code {
-  color: #a11f0c !important;
-  font-weight: bold;
-  font-size: 1.2em;
-  }
-  h1 {
-  color: #556dac;
-  font-size: 2.5em;
-  font-weight: bold;
-}
-h2 {
-  color: #68829e;
-  font-size: 2em;
-  font-weight: bold;
-}
-h3 {
-  color: #7f8c8d;
-  font-size: 1.5em;
-  font-weight: bold;
-}
-h4 {
-  color: #7f8c8d;
-  font-size: 1.2em;
-  font-weight: bold;
-}
-</style>
-
-
-<img src="image/tsTOdfHex.png" alt="My Hex Sticker" style="width: 25%; float: right; margin-left: 15px;">
-
 ## Functionality of `ts_to_df`
+<img src="image/tsTOdfHex.png" alt="My Hex Sticker" style="width: 25%; float: right; margin-left: 15px;">
 
 The `ts_to_df` function is a flexible tool for converting R’s `ts` objects into a tabular `data.frame` format, making it easier to analyze or visualize time series data with standard R tools. Key features include:
 
