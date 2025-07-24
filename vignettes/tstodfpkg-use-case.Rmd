@@ -36,15 +36,16 @@ sales_summary <- df %>% group_by(Period) %>% summarise(Avg_Sales = mean(Sales))
 print(sales_summary)
 ```
 
-Visualize the distribution with `ggplot2`:
+Visualize the quarterly sales with `ggplot2`:
 ```{r, fig.width = 7, fig.height = 5}
 library(ggplot2)
-ggplot(df, aes(x = Period, y = Sales, fill = Period)) + 
-  geom_boxplot() + 
-  facet_wrap(~ Year, ncol = 4) + 
+
+ggplot(df, aes(x = Year, y = Sales, color = Period)) + 
+  geom_line() + 
+  #facet_wrap(~ Year, ncol = 4) + 
   theme_minimal() + 
-  theme(legend.position = "none") + 
-  labs(title = "Sales Distribution by Quarter")
+  theme(legend.position = "top") + 
+  labs(title = "Quarterly Sales Over time")
 ```
 
 This approach leverages the `data.frame` structure for flexible manipulation and enhanced visualization, making it ideal for detailed sales pattern analysis.
