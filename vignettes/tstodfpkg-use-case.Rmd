@@ -1,0 +1,50 @@
+---
+title: "Use Case: Analyzing Synthetic Sales Data with tstodfpkg"
+author: "Abiyu Giday"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Use Case: Analyzing Synthetic Sales Data}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+library(tstodfpkg)
+knitr::opts_chunk$set(collapse = TRUE, comment = "#>")
+```
+
+# Use Case: Analyzing Synthetic Sales Data
+
+This vignette demonstrates how to use `tstodfpkg` to analyze the `synth_gap` dataset, a synthetic quarterly sales time series. We will show `ts_to_df` working with both the original `ts` structure and the converted `data.frame`, comparing the results to highlight its versatility.
+
+## Visualizing Trends with Time Series
+
+Load the dataset and plot the time series to identify trends:
+```{r, fig.width = 7, fig.height = 5}
+data(synth_gap)
+plot(synth_gap, main = "Synthetic Sales Trend", xlab = "Time", ylab = "Sales", type = "l")
+```
+
+## Analyzing with Data Frame Using dplyr and ggplot2
+
+Convert the time series to a data frame and use `dplyr` for aggregation:
+```{r}
+df <- ts_to_df(synth_gap, name = "Sales")
+library(dplyr)
+sales_summary <- df %>% group_by(Period) %>% summarise(Avg_Sales = mean(Sales))
+print(sales_summary)
+```
+
+Visualize the distribution with `ggplot2`:
+```{r, fig.width = 7, fig.height = 5}
+library(ggplot2)
+ggplot(df, aes(x = Period, y = Sales, fill = Period)) + 
+  geom_boxplot() + 
+  facet_wrap(~ Year, ncol = 4) + 
+  theme_minimal() + 
+  theme(legend.position = "none") + 
+  labs(title = "Sales Distribution by Quarter")
+```
+
+This approach leverages the `data.frame` structure for flexible manipulation and enhanced visualization, making it ideal for detailed sales pattern analysis.
