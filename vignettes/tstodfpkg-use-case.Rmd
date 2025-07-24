@@ -13,6 +13,33 @@ vignette: >
 library(tstodfpkg)
 knitr::opts_chunk$set(collapse = TRUE, comment = "#>")
 ```
+<style>
+:not(pre) > code {
+  color: #a11f0c !important;
+  font-weight: bold;
+  font-size: 1.2em;
+  }
+  h1 {
+  color: #556dac;
+  font-size: 2em;
+  font-weight: bold;
+}
+h2 {
+  color: #68829e;
+  font-size: 1.6em;
+  font-weight: bold;
+}
+h3 {
+  color: #7f8c8d;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+h4 {
+  color: #7f8c8d;
+  font-size: 1em;
+  font-weight: bold;
+}
+</style>
 
 # Use Case: Analyzing Synthetic Sales Data
 
