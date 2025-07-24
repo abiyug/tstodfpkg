@@ -95,6 +95,5 @@ A time series (`ts`) in R is a data structure for storing ordered data points ov
 ## Contributing
  Feel free to submit issues or pull requests on [GitHub](https://github.com/abiyug/tstodfpkg).
 
-<img src="image/tsoverview-1.png" alt="ts plots" style="width: 100%; float: center;">
 
 
