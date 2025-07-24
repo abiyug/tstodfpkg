@@ -84,10 +84,7 @@ head(ts_to_df(multi_ts))
 ### Brief Time Series Overview
 A time series (`ts`) in R is a data structure for storing ordered data points over time, commonly used for analysis and forecasting. The example plots generated from `synth_gap`—including trend, seasonality, and residuals—demonstrate its potential for identifying patterns and anomalies, aiding in data-driven decisions.
 
-
-<div style="float: center; width: 75%; margin-left: 15px;">
-![](image/tsoverview-1.png)
-</div>
+<img src="image/tsoverview-1.png" alt="ts plots" style="width: 100%; float: center;">
 
 ## Compatibility
   - Supports R versions 3.0.0 to 4.5.1 (tested on 3.5.0).
@@ -98,5 +95,6 @@ A time series (`ts`) in R is a data structure for storing ordered data points ov
 ## Contributing
  Feel free to submit issues or pull requests on [GitHub](https://github.com/abiyug/tstodfpkg).
 
+<img src="image/tsoverview-1.png" alt="ts plots" style="width: 100%; float: center;">
 
 
