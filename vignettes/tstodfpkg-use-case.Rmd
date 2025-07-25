@@ -41,7 +41,7 @@ h4 {
 }
 </style>
 
-# Use Case: Analyzing Synthetic Sales Data
+# Analyzing Time Series Sales Data
 
 This vignette demonstrates how to use `tstodfpkg` to analyze the `synth_gap` dataset, a synthetic quarterly sales time series. We will show `ts_to_df` working with both the original `ts` structure and the converted `data.frame`, comparing the results to highlight its versatility.
 
