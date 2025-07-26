@@ -11,8 +11,13 @@
 
 
 ```r
-library(devtools)
-install_github("abiyug/tstodfpkg")  #Might need install_github("abiyug/tstodfpkg", force = TRUE) - if github PAT oudated 
+install.packages("remotes")
+
+#with out vignette
+remotes::install_github("username/tstodfpkg")
+
+# with vignette
+remotes::install_github("username/tstodfpkg", build_vignettes = TRUE)
 ```
   
 ## Usage
