@@ -39,15 +39,6 @@ head(ts_to_df(synth_gap, name = "Sales"))  #Coverts ts synth_gap data to data.fr
 ### Use case & vignette
 - To install the vginettes from github from R console `devtools::install_github("abiyug/tstodfpkg", build_vignettes = TRUE)` and launch it with `vignette("tstopkg-use-case", package = "tstodfpkg)`
 
-- You can read the use case as pdf in the vignette direcotry by following
-```r
-locate <- find.package("tstodfpkg")
-paste0(locate,"/vignettes")
-```
-
-- pdf `/path/to/package/tstodfpkg/vignettes/tstodfpkg-use-case.pdf`
-
-
 
 ## Key features include:
 
