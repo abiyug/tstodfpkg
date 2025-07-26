@@ -12,3 +12,4 @@ Suggests: knitr, rmarkdown
 url: https://github.com/abiyug/tstodfpkg
 BugReports: https://github.com/abiyug/tstodfpkg/issues
 Config/Nees/website: usethis, servr
+SystemRequirments: pandoc
