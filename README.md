@@ -36,6 +36,17 @@ head(ts_to_df(synth_gap, name = "Sales"))  #Coverts ts synth_gap data to data.fr
 ## 5 2001     Q1 3326.464
 ## 6 2001     Q2 3235.753
 ```
+### Use case & vignette
+You can read the use case as HTML and/or pdf
+```r
+locate <- find.package("tstodfpkg")
+paste0(locate,"/vignettes")
+```
+
+- pdf `/path/to/package/tstodfpkg/vignettes/tstodfpkg-use-case.pdf`
+- html `/path/to/package/tstodfpkg/vignettes/tstodfpkg-use-case.html`
+
+If you have pandoc you load the `vignette("tstopkg-use-case", package = "tstodfpkg)`
 
 
 ## Key features include:

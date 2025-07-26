@@ -1,8 +1,12 @@
 ---
-title: "Use Case: Analyzing Synthetic Sales Data with tstodfpkg"
+title: "Analyzing Synthetic Sales Data with tstodfpkg"
 author: "Abiyu Giday"
 date: "`r Sys.Date()`"
-output: rmarkdown::html_vignette
+output: 
+  pdf_document:
+    toc: yes
+  html_document:
+    rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{Use Case: Analyzing Synthetic Sales Data}
   %\VignetteEngine{knitr::rmarkdown}
