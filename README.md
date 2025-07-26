@@ -1,5 +1,4 @@
 # tstodfpkg <img src="image/tsTOdfHex.png" align="right" alt"" width="120" />
-<img src="image/tsTOdfHex.png" alt="My Hex Sticker" style="width: 25%; float: right; margin-left: 15px;">
 
 ## Introduction to  `tstodfpkg` R package
  A lightweight R package designed to simplify the conversion of time series (`ts`) objects into structured `data.frame` objects,  and enhancing data analysis workflows. This package includes a versatile `ts_to_df` function and a synthetic dataset, `synth_gap`, to demonstrate its capabilities. Built with base R tools, it ensures broad compatibility and ease of use for R users.
