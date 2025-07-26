@@ -93,6 +93,30 @@ A time series (`ts`) in R is a data structure for storing ordered data points ov
 
 <img src="image/tsoverview-1.png" alt="ts plots" style="width: 100%; float: center;">
 
+## Additional Tips for Installing and Using tstodfpkg
+
+To ensure a smooth installation and access to the package vignette, follow these recommendations:
+
+- **Set Up a GitHub Personal Access Token (PAT)**: If you encounter an HTTP 401 authentication error during installation, create and set a GitHub PAT:
+```r
+  install.packages("gitcreds")
+  gitcreds::gitcreds_set()  # Paste your ghp_xxx PAT when prompted
+```
+  To create a PAT, visit `https://github.com/settings/tokens/new` and select the `repo` scope.
+
+- **Access the Vignette**: After installation, view the vignette in PDF or HTML format:
+ ```r
+  # For PDF (default)
+  vignette("tstodfpkg-use-case", package = "tstodfpkg")
+  # For HTML
+  browseURL(system.file("doc", "tstodfpkg-use-case.html", package = "tstodfpkg"))
+ ```
+
+- **Install Vignette Dependencies**: Ensure the following packages are installed for proper vignette rendering:
+```r
+  install.packages(c("knitr", "rmarkdown"))
+```
+
 ## Compatibility
   - Supports R versions 3.0.0 to 4.5.1 (tested on 3.5.0).
 
