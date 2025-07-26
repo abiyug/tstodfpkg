@@ -9,3 +9,6 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 VignetteBuilder: knitr
 Suggests: knitr, rmarkdown
+url: https://github.com/abiyug/tstodfpkg
+BugReports: https://github.com/abiyug/tstodfpkg/issues
+Config/Nees/website: usethis, servr

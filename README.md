@@ -1,6 +1,6 @@
-# tstodfpkg <img src="image/tsTOdfHex.png" align="right" alt="" width="120" />
+# tstodfpkg <img src="image/tsTOdfHex.png" align="right" alt="" width="200" />
 
-## Introduction to  `tstodfpkg` R package
+## Introduction `tstodfpkg` R package
  A lightweight R package designed to simplify the conversion of time series (`ts`) objects into structured `data.frame` objects,  and enhancing data analysis workflows. This package includes a versatile `ts_to_df` function and a synthetic dataset, `synth_gap`, to demonstrate its capabilities. Built with base R tools, it ensures broad compatibility and ease of use for R users.
   - **`ts_to_df` Function**: Transforms any `ts` object into a `data.frame` with columns for `Year`, `Period`, and the time series values, adaptable to various frequencies (e.g., quarterly, monthly, multivariate ts ).
   - **`synth_gap` Dataset**: A synthetic quarterly time series mimicking the `gap` dataset from the `UsingR` package, featuring a trend, seasonality, and noise, ideal for testing and examples.
