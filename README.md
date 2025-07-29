@@ -41,8 +41,8 @@ head(ts_to_df(synth_gap, name = "Sales"))  #Coverts ts synth_gap data to data.fr
 ## 5 2001     Q1 3326.464
 ## 6 2001     Q2 3235.753
 ```
-### Use case & vignette
-- To install the vginettes from github from R console `devtools::install_github("abiyug/tstodfpkg", build_vignettes = TRUE)` and launch it with `vignette("tstopkg-use-case", package = "tstodfpkg)`
+### Vignette
+- To install the vginettes from github from R console `remotes::install_github("abiyug/tstodfpkg", build_vignettes = TRUE)` and launch it with `vignette("tstopkg-use-case", package = "tstodfpkg)`
 
 
 ## Key features include:
