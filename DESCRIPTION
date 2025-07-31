@@ -13,3 +13,7 @@ url: https://github.com/abiyug/tstodfpkg
 BugReports: https://github.com/abiyug/tstodfpkg/issues
 Config/Nees/website: usethis, servr
 SystemRequirments: pandoc
+Date: 2025-07-24
+Maintainer: Abiyu Giday <abiyu@datarecode>
+Description: A lightweight R package designed to simplify the conversion of time series (ts) objects into structured data.frame objects, and enhancing data analysis workflows. 
+
