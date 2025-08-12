@@ -9,6 +9,7 @@
 #' data(synth_gap)
 #' ts_to_df(synth_gap, name = "Sales")
 #' @export
+#' @importFrom stats time frequency
 ts_to_df <- function(ts_obj, name = "Value") {
   if (!inherits(ts_obj, "ts")) stop("Input must be a time series object")
   time_vals <- time(ts_obj)
