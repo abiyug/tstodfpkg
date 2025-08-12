@@ -3,6 +3,7 @@ Title: Convert Time Series to Data Frame
 Version: 0.1.0
 Authors@R: person("Abiyu Giday", email = "abiyu.giday@datarecode.com", role = c("aut", "cre"))
 Description: A simple package to convert R time series objects to data frames with synthetic example data.
+Description: A lightweight R package designed to simplify the conversion of time series (ts) objects into stru$
 License: MIT
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
