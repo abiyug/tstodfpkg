@@ -63,7 +63,7 @@ Convert the time series to a data frame and use `dplyr` for aggregation:
 ```{r}
 df <- ts_to_df(synth_gap, name = "Sales")
 library(dplyr)
-sales_summary <- df %>% group_by(Period) %>% summarise(Avg_Sales = mean(Sales))
+sales_summary <- df %>% dplyr::group_by(Period) %>% dplyr::summarise(Avg_Sales = mean(Sales))
 print(sales_summary)
 ```
 
