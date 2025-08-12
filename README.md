@@ -14,10 +14,10 @@
 install.packages("remotes")
 
 #with out vignette
-remotes::install_github("username/tstodfpkg")
+remotes::install_github("abiyug/tstodfpkg")
 
 # with vignette
-remotes::install_github("username/tstodfpkg", build_vignettes = TRUE)
+remotes::install_github("abiyug/tstodfpkg", build_vignettes = TRUE)
 ```
   
 ## Usage
